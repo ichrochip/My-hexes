@@ -3,16 +3,16 @@
     //gets impulse to cancel player movement
     Mind's Reflection
     Pace Purification
-    Numerical Reflection: -1
+    Numerical Reflection(-1)
     Multiplicative Distillation
-    Numerical Reflection: 0.75
+    Numerical Reflection(0.75)
     Multiplicative Distillation
     Huginn's Gambit
 
     //tests if sneaking
     Mind's Reflection
     Stadiometer's Purification
-    Numerical Reflection: 1.8
+    Numerical Reflection(1.8)
     Inequality Distillation
     
     //move forward if player is crouching
@@ -20,7 +20,7 @@
         Muninn's Reflection
         Mind's Reflection
         Alidade's Purification
-        Numerical Reflection: 0.5
+        Numerical Reflection(0.5)
         Multiplicative Distillation
         Additive Distillation
         Huginn's Gambit
@@ -37,7 +37,7 @@
     Impulse
 
     //makes sure the wips stays next to the player
-    Numerical Reflection: 20
+    Numerical Reflection(20)
     Haste
     Mind's Reflection
     Compass' Purification
@@ -49,14 +49,5 @@
 //this summons the wisp
 Mind's Reflection
 Compass' Purification
-Numerical Reflection: 160
+Numerical Reflection(160)
 Summon Cyclic Wisp
-
-//this is cast on the wisp to make it more efficient when bind wisp is present
-Mind's Reflection
-Compass' Purification
-Numerical Reflection: 2
-Zone Distillation: Wisp
-
-//add this to make the spell last longer for free
-Bind Wisp
