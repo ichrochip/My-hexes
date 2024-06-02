@@ -1,6 +1,6 @@
-//this is cast once per tick
+
 {
-    //gets impulse to cancel player movement
+    
     Mind's Reflection
     Pace Purification
     Numerical Reflection(-1)
@@ -9,13 +9,13 @@
     Multiplicative Distillation
     Huginn's Gambit
 
-    //tests if sneaking
+    
     Mind's Reflection
     Stadiometer's Purification
     Numerical Reflection(1.8)
     Inequality Distillation
     
-    //move forward if player is crouching
+    
     {
         Muninn's Reflection
         Mind's Reflection
@@ -31,12 +31,12 @@
 
     Hermes' Gambit
     
-    //creates the impulse
+    
     Mind's Reflection
     Muninn's Reflection
     Impulse
 
-    //makes sure the wips stays next to the player
+    
     Numerical Reflection(20)
     Haste
     Mind's Reflection
@@ -46,7 +46,7 @@
     Pathfinder's Gambit
 }
 
-//this summons the wisp
+
 Mind's Reflection
 Compass' Purification
 Numerical Reflection(160)
